@@ -1,1 +1,1 @@
-# shopping-guide
+# attractions-guide
