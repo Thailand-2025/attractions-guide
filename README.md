@@ -8,9 +8,9 @@ Once deployed via GitHub Pages, access the live guide here:
 **https://thailand-2025.github.io/attractions-guide/**
 
 ## ✨ Features
-- **Collapsible city sections**: Bangkok and Phuket
+- **Collapsible city and destination sections**: Each city (e.g. Bangkok, Phuket) and each destination within them is now independently collapsible
 - **Structured formatting** with:
-  - Bold destination prefixes (e.g. “Destination – MBK CENTER”)
+  - Independent destination sections for improved navigation (e.g. “Destination – MBK CENTER”)
   - Clickable attraction links and Google Maps directions
   - Clear time fields (When, Hours, Travel Time)
   - Dual currency support (Price – ฿ / $)
